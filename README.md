@@ -39,3 +39,6 @@ Python, BeautifulSoup, requests, Pandas, PowerBI
 
 #### Results 📈:
 PowerBI dashboard with 4 pages containig all necessary information about secondary car market in Ukraine, which will help you make certain decisions to solve problems associated with used cars
+
+#### Licensing, Authors:
+I would like to give special thanks to [AutoRia](https://auto.ria.com/uk/) for the data i collected
