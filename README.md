@@ -9,7 +9,8 @@ The project involved scraping the data from AutoRia website (216.520 rows), load
 The dataset includes: manufacturer, model_name, release_year, mileage, fuel_type, fuel, transmission, accident, price(USD), price(UAH), city, region, link.
 
 #### Data Sources:
-`auto_ria_cleaned.csv`: The primary datatset that was scraped and used in this project, dataset contains detailed information about cars.
+`auto_ria_cleaned.csv`: The primary datatset that was scraped and used in this project, dataset contains detailed information about cars. The file weights more than 25mb so it is inside of a `auto_ria_cleaned.rar`.
+
 `city_region.csv`: This dataset was scraped and used to add region names into primary dataset, because we only had city or village names and for PowerBI visualization i needed regions
 
 #### Files:
