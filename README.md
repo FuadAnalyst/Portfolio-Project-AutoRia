@@ -1,7 +1,7 @@
 # AutoRia Data Analysis & PowerBI Dashboard 🚗📊
 Welcome to my Auto Ria porfolio project! From data scraping to cleaning and creating dashboard
 
-You can try interactive dashboard [Auto Ria Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc5NDFlZDYtY2YyYS00ZWU5LThkNWEtNDljOTkzZDU2MTliIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection) 
+You can try interactive dashboard [Auto Ria Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmUxYzBjYTItNWNlOC00MTU1LTlhNDktNjUyMTUzMTRmZmQxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection) 
 and i will also attach screenshots below
 
 ![image_2024-01-14_17-52-14](https://github.com/FuadAnalyst/Portfolio-Project-AutoRia/assets/156589453/12a3a2bd-8972-477f-b82c-45093353db04)
